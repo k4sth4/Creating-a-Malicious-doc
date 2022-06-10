@@ -29,7 +29,7 @@ python3 payload.py
 
 ### Creating a Macro using MS Word
 
-Now open MS Word goto View --> choose Macro --> open macro --> create a macro, name it AutoOpen
+Now open MS Word goto View --> choose Macro --> open macro --> create a macro, name it MyMacro --> choose option Macros in: Document1(document)
 
 ![OnPaste 20220610-125805](https://user-images.githubusercontent.com/106917304/173013461-6408bd9a-1c37-4db2-890e-f6684fa49b83.png)
 
